@@ -1,0 +1,56 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #e68686;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Shadows Into Light', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+  color: #d218d8;
+}
+
+p {
+  font-size: 40px;
+  color: cyan;
+  font-family: 'Shadows Into Light', cursive;
+  text-shadow: 3px 0 #232931;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+
+}
+#copy{
+  font-size: 20px;
+}
+#btn{
+  height: 91px;
+  width: 200px;
+  border: 2px solid red;
+  background-color: #23ac5c;
+  margin: 5% 37% 0% 43.3%;
+  border-radius: 10px;
+  font-size: 45px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
